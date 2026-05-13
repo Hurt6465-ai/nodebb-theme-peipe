@@ -1,7 +1,7 @@
 {
   "name": "nodebb-theme-peipe",
   "version": "0.1.0",
-  "description": "Peipe mobile app style child theme for NodeBB Harmony, with profile comments and 1-5 star ratings.",
+  "description": "小红书个人主页子主题",
   "main": "lib/theme.js",
   "license": "MIT",
   "repository": {
