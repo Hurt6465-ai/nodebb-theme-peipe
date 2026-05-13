@@ -1,0 +1,8 @@
+{
+  "id": "nodebb-theme-peipe",
+  "name": "Peipe Theme",
+  "description": "Peipe mobile child theme based on Harmony.",
+  "url": "https://github.com/Hurt6465-ai/nodebb-theme-peipe",
+  "baseTheme": "nodebb-theme-harmony",
+  "screenshot": "screenshot.png"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "nodebb-theme-peipe",
+  "version": "0.1.0",
+  "description": "Peipe mobile app style child theme for NodeBB Harmony, with profile comments and 1-5 star ratings.",
+  "main": "lib/theme.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Hurt6465-ai/nodebb-theme-peipe.git"
+  },
+  "keywords": [
+    "nodebb",
+    "nodebb-theme",
+    "peipe",
+    "harmony",
+    "profile"
+  ],
+  "nbbpm": {
+    "compatibility": "^4.0.0"
+  },
+  "peerDependencies": {
+    "nodebb-theme-harmony": "^2.0.0 || ^3.0.0"
+  }
+}

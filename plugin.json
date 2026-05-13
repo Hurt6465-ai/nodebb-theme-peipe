@@ -1,0 +1,17 @@
+{
+  "id": "nodebb-theme-peipe",
+  "hooks": [
+    { "hook": "static:app.load", "method": "init" },
+    { "hook": "filter:config.get", "method": "getThemeConfig" },
+    { "hook": "filter:widgets.getAreas", "method": "defineWidgetAreas" }
+  ],
+  "scripts": [
+    "public/profile.js",
+    "../nodebb-theme-harmony/public/harmony.js"
+  ],
+  "templates": "templates",
+  "modules": {},
+  "staticDirs": {
+    "public": "public"
+  }
+}
